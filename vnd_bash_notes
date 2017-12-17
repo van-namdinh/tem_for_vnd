@@ -1,0 +1,1806 @@
+sudo apt-get update 
+sudo apt-get upgrade 
+shutdown now
+bash <(wget -qO- --no-check-certificate https://raw.githubusercontent.com/davidepatti/noxim/master/other/setup/ubuntu.sh)
+cd Documents/
+ls
+vim ex1.c
+sudo apt-get install vim
+exit
+gcc ex1.c -o test
+./test 
+sudo apt install ibus-unikey 
+ibus restart
+exit
+sudo apt-get update 
+sudo apt-get upgrade 
+ls
+cd Documents/
+ls
+cd Fpt_interview/
+ls
+gnome-open
+sudo apt install libgnome2-bin 
+gnome-open %5bFSOFT%5d\ INTERVIEW\ QUESTIONS.PDF 
+exit
+gcc helloc.c -o test
+./test 
+gcc ex3.c -o test
+./test 
+clear
+gcc ex3.c -o test
+clear
+./test 
+gcc ex3.c -o test
+./test 
+gcc ex3.c -o test
+./test 
+gcc ex3.c -o test
+./test 
+gcc ex3.c -o test
+./test 
+gcc ex3.c -o test
+./test 
+gcc ex3.c -o test
+./test 
+gcc ex3.c -o test
+./test 
+gcc ex3.c -o test
+./test 
+gcc ex3.c -o test
+./test 
+gcc ex3.c -o test
+./test 
+gcc ex3.c -o test
+./test 
+gcc ex3.c -o test
+./test 
+gcc ex3.c -o test
+./test 
+gcc ex3.c -o test
+./test 
+gcc ex3.c -o test
+./test 
+gcc ex3.c -o test
+./test 
+ls
+gcc ex3.c -o test
+./test 
+sudo apt-get update 
+sudo apt-get upgrade 
+ls
+clear
+gcc ex4.c -o test
+./test 
+gcc ex4.c -o test
+./test 
+gcc ex4.c -o test
+./test 
+gcc ex4.c -o test
+exit
+gno
+gnome-open Documents/Fpt_interview/%
+gnome-open Documents/Fpt_interview/%5bFSOFT%5d\ INTERVIEW\ QUESTIONS.PDF 
+cd Documents/Fpt_interview/
+ls
+vim helloc.c
+vim ex3.c 
+vim helloc.c 
+vim ex4.c 
+exit
+shutdown now
+exit 
+ls
+gpp ex4.c -o test 
+g++ ex4.c -o test 
+vim pointers_in_c_v1.c
+vim test.c
+ls
+exit
+gcc pointers_in_c_v1.c -o test 
+./test 
+gcc pointers_in_c_v1.c -o test 
+./test 
+gcc test.c -o test
+./test 
+gcc test.c -o test
+./test 
+exit
+ls
+cd Documents/Fpt_interview/
+ls
+gnome-open %5bFSOFT%5d\ INTERVIEW\ QUESTIONS.PDF 
+ls
+vim ex4.c 
+exit
+apt update 
+apt-get update 
+sudo apt update 
+sudo apt-get update 
+sudo apt-get upgrade 
+cd Documents/Fpt_interview/
+ls
+vim test
+vim test.c 
+exit
+gcc test.c -o test
+./test 
+gcc test.c -o test
+./test 
+gcc test.c -o test
+./test 
+gcc test.c -o test
+./test 
+exit
+sudo apt-get update 
+sudo apt-get upgrade 
+ls
+cd noxim/
+ls
+cd bin/
+ls
+./noxim 
+ls
+cp ~/noxim/config_examples/*.yaml ~/noxim/bin/
+./noxim -config default_config.yaml 
+ls
+cd..
+ls
+cd ..
+ls
+cd src/
+ls
+vim Main.cpp 
+exit
+gcc amux.c -o test 
+/tmp/
+./test 
+exit
+vim hellocpp.cpp
+vim amux.c
+exit
+g++ hellocpp.cpp -o test
+./test 
+g++ hellocpp.cpp -o test
+./test 
+g++ hellocpp.cpp -o test
+gcc amux.c -o test 
+./test 
+gcc amux.c -o test 
+./test 
+gcc amux.c -o test 
+./test 
+gcc amux.c -o test 
+./test 
+gcc amux.c -o test 
+./test 
+gcc amux.c -o test 
+./test 
+gcc amux.c -o test 
+exit
+gcc ex5.c -o test
+./test 
+gcc ex5.c -o test
+ls
+vim ex6.c
+ls
+vim ex6.c
+exit
+ls
+cd Documents/Fpt_interview/
+ls
+vim ex5.c
+vim ex6.c
+ls
+gcc ex6.c -o test
+./test 
+gcc ex7.c -o test
+./test 
+vim ex8.c
+vim ex9.c
+vim ex10.c
+vim ex11.c
+vim ex12.c
+vim ex13.c
+vim ex14.c
+vim ex15.c
+vim ex16.c
+vim ex17.c
+vim ex18.c
+exit
+cd Documents/Fpt_interview/
+ls
+vim ex6.c 
+ls
+vim ex6.c 
+vim ex7.c
+gcc ex10.c -o test
+./test 
+gcc ex13.c -o test
+./test 
+gcc ex13.c -o test
+./test 
+gcc ex13.c -o test
+./test 
+gcc ex14.c -o test
+./test 
+gcc ex14.c -o test
+./test 
+gcc ex16.c -o test
+./test 
+gcc ex16.c -o test
+./test 
+gcc ex17.c -o test
+./test 
+gcc ex17.c -o test
+./test 
+exit
+gnome-open Documents/Fpt_interview/%5bFSOFT%5d\ INTERVIEW\ QUESTIONS.PDF `
+gnome-open Documents/Fpt_interview/%5bFSOFT%5d\ INTERVIEW\ QUESTIONS.PDF
+ls
+cd Documents/Fpt_interview/
+ls
+vim ex18.c
+vim ex19.c
+vim ex20.c
+vim ex21.c
+vim Q&A.c
+vim QandA.c
+exit
+gcc ex18.c -o test
+./test 
+gcc ex18.c -o test
+./test 
+gcc ex18.c -o test
+./test 
+gcc ex18.c -o test
+./test 
+ls
+gcc ex19.c -o test
+exit
+ls
+ping google.com.vn
+ping 10.10.128.33
+exit
+gcc --version
+sudo apt-get install gcc-4.9 g++-4.9
+alias gcc gcc-4.9
+alias gcc=gcc-4.9
+alias gcc=gcc-4.8
+alias g++=g++-4.8
+C
+cd Downloads/
+cd
+mkdir crosscompiler
+cd crosscompiler/
+cp /home/vnd2586/Downloads/scriptinstallmipselcrosscompiler/install_mipsel-unknown-elf.sh .
+ls
+chmod +x install_mipsel-unknown-elf.sh 
+./install_mipsel-unknown-elf.sh 
+sudo update-alternatives --remove-all gcc
+sudo update-alternatives --install /usr/bin/gcc gcc /usr/bin/gcc-4.8 10
+sudo update-alternatives --config gcc
+gcc -version
+gcc --version
+ls
+vim install_mipsel-unknown-elf.sh 
+./install_mipsel-unknown-elf.sh 
+sudo apt-get install gmp
+gcc -v
+gcc -v | grep gmp
+gcc -v  >> test.md
+vim test.md 
+cat gcc -v  >> test.md
+gcc -v | cat >> test.md
+ls
+vim test.md 
+gcc -v > test.md
+vim test.md 
+gcc -v
+c
+clear
+gcc -v | cat
+ls
+vim install_mipsel-unknown-elf.sh 
+c
+clear
+sudo update-alternatives --remove-all gcc
+sudo update-alternatives --install  /usr/bin/gcc gcc /usr/bin/gcc-5 10
+ls
+./install_mipsel-unknown-elf.sh 
+sudo update-alternatives --remove-all gcc
+sudo update-alternatives --install  /usr/bin/gcc gcc /usr/bin/gcc-4.8 10
+ls
+sudo apt-get remove gcc-4.8
+sudo apt-get install gcc-4.9
+sudo update-alternatives --remove-all gcc
+sudo update-alternatives --install  /usr/bin/gcc gcc /usr/bin/gcc-4.9 10
+./install_mipsel-unknown-elf.sh 
+find /usr/ -name *libmpc*
+sudo apt-get install libmpc-dev
+./configure
+./install_mipsel-unknown-elf.sh 
+ls
+cd mipsel/bin/
+ls
+./mipsel-unknown-elf-gcc-4.8.0 
+ls
+cd ..
+ls
+cd ..
+ls
+vim install_mipsel-unknown-elf.sh 
+ls
+cd mipsel/
+ls
+cd src/
+ls
+cd ../build/
+ls
+cd ..
+ls
+cd bin/
+ls
+cd ../../
+ls
+vim install_mipsel-unknown-elf.sh 
+./install_mipsel-unknown-elf.sh 
+history 
+ls
+cd mipsel/bin/
+./mipsel-unknown-elf-gcc
+ls
+./mipsel-unknown-elf-addr2line 
+ls
+cd ..
+ls
+cd build/
+ls
+ẽit
+exit
+cd /etc/cups
+ls
+vim client.conf
+ls
+sudo vim client.conf
+ls
+exit
+shutdown now
+im-config -n fcitx
+reboot
+shutdown now
+reboot
+shutdown now
+ping 10.10.128.33
+ls
+smb://10.10.128.33
+ssh namdv@10.10.128.33
+ls
+cd Documents/
+ls
+cd LabSIS_schedules/
+ls
+cd ~/Documents/Fpt_interview/
+ls
+gnome-open %5bFSOFT%5d\ INTERVIEW\ QUESTIONS.PDF 
+ls
+exit
+cd Documents/
+ls
+cd 
+cd Downloads/
+ls
+chmod +x ModelSimSetup-16.1.0.196-linux.run 
+./ModelSimSetup-16.1.0.196-linux.run 
+sudo ./ModelSimSetup-16.1.0.196-linux.run 
+./ModelSimSetup-16.1.0.196-linux.run 
+ls
+chmod +x ModelSimSetup-16.1.0.196-linux.run 
+./ModelSimSetup-16.1.0.196-linux.run 
+exit
+uptime
+whoami
+exit
+lsb_release -a
+cd noxim/
+ls
+cd bin/
+ls
+./noxim -config default_config.yaml 
+exit
+shutdown now
+ls
+cd noxim/bin/
+ls
+./noxim -config default_config.yaml 
+ls
+cd ...
+ls
+cd ..
+ls
+cd src/
+ls
+vim amux.c 
+vim TokenRing.cpp 
+exit
+shutdown now
+./test 
+exit
+./test 
+exit
+cd Downloads/
+ls
+g++ feck.cpp -o test
+./test 
+vim feck.cpp 
+exit
+vim .vimrc
+exit
+vim test.c
+:q
+vim .vimrc
+exit
+ls
+cd ..
+ls
+cd bundle/
+ls
+cd vim-snippets/
+ls
+c
+ls
+cd UltiSnips/
+ls
+vim cpp.snippets 
+update
+upgrade
+sudo apt-get upgrade 
+exit
+ls
+cd .vim/
+ls
+cd script/
+ls
+vim hdl.vim 
+vim test.c
+cd he
+cd ../header/
+ls
+cd
+ls
+cd .vim/
+ls
+ls -la
+cd
+ls -la
+cd .vim/
+ls
+cd
+vim .vim
+c
+cd
+vim .bashrc 
+c
+vim test.cpp
+cd .vim/
+ls
+cd header/
+ls
+vim _.cpp 
+vim test.cpp
+ls
+vim namcauhinh.abc
+vim _.c
+ls -la
+vim _.vhd
+vim hellocpp.cpp
+ls
+vim _.
+ls
+cd
+ls
+ls -la
+vim .bashrc 
+exit
+ls
+c
+clear
+ls
+rm examples.desktop 
+c
+cd Downloads/
+ls
+cd
+c
+mkdir Repo
+cd Repo/
+ls
+git clone https://yoloh3.github.io/Linux
+git clone https://github.com/yoloh3/Linux
+cd Linux/
+ls
+vim README.md 
+c
+mkdir ~/.vimrc
+cp vim/* ~/.vimrc/
+cp -R vim/* ~/.vimrc/
+cp bash/.bashrc ~/.bashrc 
+c
+cd
+ls
+mkdir .vim
+mv .vimrc/* .vim/
+rm -rf .vimrc/
+ls
+cp Repo/Linux/vim/.vimrc .
+c
+vim .vimrc 
+git clone https://github.com/VundleVim/Vundle.vim.git ~/.vim/bundle/Vundle.vim
+vim .vimrc 
+exit
+ls
+cd
+ls
+c
+cd
+ls
+rm -rf .vim
+ls
+rm .vimrc 
+ls
+rm -rf ~/.vim
+rm -rf ~/.vimrc 
+cd Repo/Linux/
+git update
+git pull
+ls
+vim install_vim.sh 
+chmod u+x install_vim.sh 
+vim install_vim.sh 
+./install_vim.sh 
+ls
+vim install_vim.sh 
+ls
+vim install_vim.sh 
+./install_vim.sh 
+ls
+vim install_vim.sh 
+./install_vim.sh 
+ls
+vim install_vim.sh 
+./install_vim.sh 
+vim install_vim.sh 
+./install_vim.sh 
+ls
+vim ~/.vimrc 
+ls
+./install_vim.sh 
+ls
+vim install_vim.sh 
+c
+ls
+vim install_vim.sh 
+git status 
+git checkout vim/.vimrc
+ls
+./install_vim.sh 
+vim ~/.vimrc 
+ls
+cd
+ls
+cd -
+ls
+vim install_vim.sh 
+ls
+cd
+ls
+vim .vimrc 
+cd .vim/
+ls
+cd
+ls
+vim linkh3.sh
+exit
+sudo apt-get install texlive-full 
+ls
+vim /etc/exit
+exit
+man
+help
+man for
+help for
+ls
+exit
+vim namdtest.cpp
+cd
+cd .vim/
+ls
+cd header/
+ls
+vim _.cpp
+vim namtest.cpp
+c
+adf
+adsf;a
+c
+cd
+ls
+ls -la
+exit
+cd Downloads/
+ls
+vim feck.cpp 
+exit
+vim .bashrc
+exit
+update
+exit
+xxx
+ls
+cd Documents/algorithms\ for\ vnd/
+exit
+cd
+cd Documents/
+ls
+cd LabSIS_schedules/
+ls
+cd ..
+cd CProgramming/
+ls
+cd cprogrammingvndes/
+ls
+vim randomnumgen.c
+vim enterarray.c
+vim gen1000elemrandnum.c
+:q
+exit
+gcc randomnumgen.c -o test 
+./test 
+c
+gcc randomnumgen.c -o test 
+./test 
+gcc randomnumgen.c -o test 
+./test 
+gcc randomnumgen.c -o test 
+./test 
+c
+gcc enterarray.c -o test 
+./test 
+gcc enterarray.c -o test 
+./test 
+gcc gen1000elemrandnum.c -o test 
+./test 
+gcc gen1000elemrandnum.c -o test 
+./test 
+gcc gen1000elemrandnum.c -o test 
+./test 
+gcc gen1000elemrandnum.c -o test 
+./test 
+gcc gen1000elemrandnum.c -o test 
+c
+gcc gen1000elemrandnum.c -o test 
+./test 
+c
+exit
+cd noxim/bin/
+./noxim -config default_config.yaml 
+ls
+cd
+ls
+ls -la
+cd .vim/
+ls
+vim REAME.md 
+c
+ls
+c
+cd after/
+ls
+cd syntax/
+ls
+vim cpp.vim 
+c
+cd 
+cd .vim/
+ls
+cd doc/
+ls
+ls -la
+..
+cd ..
+ls
+vim script/tex.vim 
+c
+cd script/
+ls
+vim code_style.vim 
+exit
+xxx
+ls
+ls -la
+c
+update
+sudo apt-get upgrade 
+exit
+cd Downloads/
+ls
+chmod +x ModelSimSetup-16.1.0.196-linux.run 
+./ModelSimSetup-16.1.0.196-linux.run 
+ls
+./ModelSimSetup-16.1.0.196-linux.run 
+sudo ./ModelSimSetup-16.1.0.196-linux.run 
+./ModelSimSetup-16.1.0.196-linux.run 
+sudo apt install binfmt-support qemu qemu-user-static
+./ModelSimSetup-16.1.0.196-linux.run 
+exit
+cd
+ls 
+cd Documents/
+ls
+gnome-open algorithms\ for\ vnd/
+sudo apt install binfmt-support qemu qemu-user-static
+sudo apt autoremove 
+sudo apt-get upgrade 
+sudo apt-get update 
+sudo apt-get upgrade 
+ls
+cd Documents/
+ls
+cd ../ 
+cd Downloads/
+ls
+chmod +x ModelSimSetup-16.1.0.196-linux.run 
+./ModelSimSetup-16.1.0.196-linux.run 
+c
+clear
+/bin/ls -l $(/usr/bin/which ls)
+/bin/ls: ELF 64-bit LSB executable, x86-64, version 1 (SYSV), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, for GNU/Linux
+/bin/ls: ELF 64-bit LSB executable, x86-64, version 1 (SYSV), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, for GNU/Linux 2.6.32, BuildID[sha1]=eca98eeadafddff44caf37ae3d4b227132861218, stripped
+/bin/ls: ELF 64-bit LSB executable, x86-64, version 1 (SYSV), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, for GNU/Linux 2.6.32, BuildID[sha1]=eca98eeadafddff44caf37ae3d4b227132861218
+/usr/bin/file -L $(/usr/bin/which ls)
+/bin/ls -l $(/usr/bin/which ls)
+exit
+ls
+cd noxim/bin/
+ls
+make
+./noxim -config default_config.yaml 
+make
+./noxim -config default_config.yaml 
+./noxim 
+ls
+vim Makefile.deps 
+make
+vim Makefile
+ls
+vim ~/noxim/src/Main.cpp 
+vim ~/noxim/src/Stats.cpp 
+vim ~/noxim/src/GlobalStats.cpp 
+make
+./noxim 
+rm noxim 
+ls
+cd ..
+ls
+cd bin/
+ls
+./rm noxim 
+rm noxim 
+sudo rm noxim 
+ls
+make
+./noxim -config default_config.yaml 
+rm noxim 
+ls
+make
+./noxim 
+exit
+shutdown now
+bash <(wget -q0- --no-check-certificate https://raw.githubusercontent.com/davidepatti/noxim/master/other/setup/ubuntu.sh)
+bash <(wget -qO- --no-check-certificate https://raw.githubusercontent.com/davidepatti/noxim/master/other/setup/ubuntu.sh)
+ls
+cd noxim/
+ls
+cd bin/
+ls
+./noxim 
+exit
+ls
+rm noxim/
+sudo rm noxim/
+rm -r noxim/
+ls
+man rm
+ls
+man help
+exit
+ls
+cd ..
+cd 
+vim ~/noxim/src/routingAlgorithms/RoutingAlgorithms.cpp 
+exit
+ls
+rm -f noxim/
+rm -r noxim/
+ls
+rm -r noxim/
+ls
+rm noxim/
+ls
+ls noxim/bin/
+cd noxim/
+ls
+cd bin/
+ls
+./noxim 
+rm noxim 
+ls
+rm -f noxim 
+ls
+make
+ls
+./noxim 
+rm -f noxim o
+ls
+make
+./noxim -config default_config.yaml 
+rm noxim 
+ls
+rm -f noxim 
+ls
+cd
+ls
+c
+bash <(wget -qO- --no-check-certificate https://raw.githubusercontent.com/davidepatti/noxim/master/other/setup/ubuntu.sh)
+ls
+cd noxim/
+ls
+cd bin/
+ls
+./noxim 
+./noxim -config power.yaml 
+cp ~/noxim/config_examples/*.yaml .
+ls
+./noxim -config default_config.yaml 
+c
+ls
+c
+./noxim -config default_config.yaml 
+exit
+ls
+cd Documents/algorithms\ for\ vnd/
+ls
+ls -a
+cd
+ls
+vim linkh3.sh 
+ls
+c
+ls
+exit
+ping 10.10.128.33
+exit
+shutodown now
+shudown now
+shutdown now
+gcc test.c -o test
+./test 
+ls
+c
+exit
+gcc gen1000elemrandnum.c -o test 
+./test 
+vim test.c
+exit
+ls
+cd Documents/
+ls
+cd CProgramming/
+ls
+cd cprogrammingvndes/
+ls
+gcc randomnumgen.c -o test
+./test 
+gcc gen1000elemrandnum.c -o test 
+./test 
+c
+ls
+vim gen1000elemrandnum.c 
+exit
+shutdown now
+gnome-open ~/Documents/CProgramming/\(11+25\ hay\)\ KNKing.Native_C_Programming_A_Modern_Approach_2nd_Edition.pdf 
+EXIT
+exit
+ls
+cd Downloads/cprogrammingvndes/
+ls
+vim compiler_help 
+ls
+c
+ls
+c
+rm _helloWorld.c.swp 
+ls
+rm -r _helloWorld.c.swp 
+ls
+c
+rm -f _helloWorld.c.swp 
+ls
+clear
+ls
+vim ex1.cpp
+ls
+vim ex2.cpp
+vim sort_arr.cpp 
+vim ex2.cpp
+vim sort_arr.cpp 
+vim ex2.cpp
+exit
+ls
+g++ ex1.cpp -o test 
+./test 
+g++ ex1.cpp -o test 
+./test 
+g++ ex1.cpp -o test 
+./test 
+g++ ex1.cpp -o test 
+clear
+g++ ex1.cpp -o test 
+./test 
+g++ ex1.cpp -o test 
+./test 
+g++ ex1.cpp -o test 
+./test 
+g++ ex1.cpp -o test 
+./test 
+g++ ex1.cpp -o test 
+./test 
+g++ ex1.cpp -o test 
+./test 
+c
+g++ ex2.cpp -o test 
+./test 
+g++ ex2.cpp -o test 
+./test 
+g++ ex2.cpp -o test 
+./test 
+g++ ex2.cpp -o test 
+./test 
+g++ ex2.cpp -o test 
+ls
+vim sort_arr.cpp
+g++ sort_arr.cpp -o test 
+./test 
+g++ sort_arr.cpp -o test 
+./test 
+g++ sort_arr.cpp -o test 
+./test 
+ls
+ls -a
+ls -la
+g++ sort_arr.cpp -o test 
+./test 
+clear
+ls
+gcc ex2.cpp -o test 
+g++ ex2.cpp -o test 
+./test 
+exit
+shutdown now
+cd
+ls
+cd noxim/
+ls
+~/ .git/
+ls
+cd
+exit
+ls
+cd noxim/
+ls
+ls other/
+vim other/README.txt 
+cd bin/
+./noxim -config default_config.yaml 
+cd
+ls
+vim linkh3.sh 
+cd PlayOnLinux\'s\ virtual\ drives
+ls
+ls default/
+ls
+cd default/
+ls
+cd
+exit
+sudo apt-get install winbind 
+exit
+cd
+cd ..
+cd
+cd ..
+ls
+cd vnd2586/
+ls
+cd ..
+ls
+cd 
+exit
+cd ..
+ls
+ls src/
+ls
+vim ~/noxim/src/Buffer.cpp 
+exit
+/media/
+ls
+/media/
+cd /media/
+ls
+exit
+cd /usr/share/playonlinux/
+mkdir MOffice
+sudo mkdir MOffice
+cd
+cd noxim/src/
+ls
+cd routingAlgorithms/
+ls
+cd ..
+cd selectionStrategies/
+ls
+exit
+shutdown now
+cd noxim/
+ls
+cd src/
+ls
+cd routingAlgorithms/
+ls
+cd ../selectionStrategies/
+ls
+exit
+cd Downloads/
+ls
+unzip booksim2-master.zip 
+ls
+cd booksim2-master/
+ls
+c
+ls
+cd src/
+ls
+ls /.. allocators/
+ls /.. arbiters/
+ls /.. networks/
+ls /.. routers/
+c
+ls /.. allocators/
+ls /.. arbiters/
+ls /.. routers/
+ls /.. networks/
+c
+cd ~/Downloads/
+taz -xvzf vnoc2_src.tar.gz 
+tar -cvzf vnoc2_src.tar.gz vnocsim
+ls
+sudo apt-get install tar
+tar -xvzf vnoc2_src.tar.gz 
+ls
+c
+ls
+tar -xvzf vnoc2_src.tar.gz 
+tar -xvzf vnoc2_src.tar.gz abc
+ls
+c
+mkdir abc
+ls
+tar -cvzf vnoc2_src.tar.gz abc/
+cd abc/
+ls
+cd ..
+tar -xvzf vnoc2_src.tar.gz abc/ 
+ls
+ls abc/
+tar -xvzf vnoc2_src.tar.gz 
+gnome-open ~/Downloads/
+c
+ls
+clear
+ls vnoc2
+ls vnoc2/orion3/
+ls vnoc2/vnoc
+ls vnoc2/include/
+ls vnoc2/run_scripts/
+ls vnoc2/pareto/
+exit
+shutdown now
+sudo apt-get update 
+sudo apt-get upgrade 
+exit
+cd /etc/apt/
+ls
+exit
+sudo vim /etc/apt/sources.list
+sudo cp /etc/apt/sources.list .
+ls
+ls -a
+ls
+exit
+reboot
+shutdown now
+sudo apt-get update 
+sudo apt-get upgrade 
+sudo apt autoremove 
+sudo apt-get upgrade 
+sudo apt-get update 
+ls
+cd noxim/
+ls
+VIM README.md 
+vim README.md 
+ls
+cd src/
+ls
+cd routingAlgorithms/
+ls
+vim Routing_XY.h
+vim Routing_XY.cpp 
+cd noxim/bin/
+ls
+./noxim -config default_config.yaml 
+vim makevnd.sh
+chmod +x makevnd.sh 
+./makevnd.sh 
+vim makevnd.sh 
+chmod +x makevnd.sh 
+./makevnd.sh 
+chmod +x makevnd.sh 
+./makevnd.sh 
+rm noxim 
+ls
+./makevnd.sh 
+ls
+ls -a
+rm -f noxim 
+ls
+ls -la
+ls 
+ls -a
+./makevnd.sh 
+ls -la
+rm noxim 
+rm -f noxim 
+ls
+ls lm
+ls la
+ls -a
+ls -la
+./makevnd.sh 
+ls -la
+./makevnd.sh 
+ls
+vim makevnd.sh 
+chmod +x makevnd.sh 
+./makevnd.sh 
+vim makevnd.sh 
+cd
+vim ~/Downloads/Linux-master/git/tip.txt 
+ls
+cd Downloads/Linux-master/
+ls
+vim install_vim.sh 
+ls
+cd modelsim/
+ls
+vim REAME.md 
+cd
+ls
+cd .vim/
+ls
+cd
+ls
+ls -a
+ls
+ssh namdv@10.10.128.33
+ssh -Y namdv@10.10.128.33
+ls
+vim git-completion.bash 
+ls
+vim git_getting_started.md 
+vim vnd-git-updating.txt
+vim vnd-git-updating.cpp
+ls
+ls -a
+ls -la
+vim vnd-git-updating.cpp
+g++ vnd-git-updating.cpp -o test
+vim vnd-git-updating.cpp 
+g++ vnd-git-updating.cpp -o test
+./test 
+history 
+cd
+man scp
+history 
+exit
+sudo apt-get install texlive-full 
+exit
+ls
+history 
+ssh -Y namdv@10.10.128.33
+ssh -Y namdv@10.10.128.6
+ssh -Y namdv@10.10.128.33
+ssh -Y namdv@10.10.128.6
+ssh -Y namdv@10.10.128.33
+exit
+cd noxim/
+cd src/
+ls
+vim routingAlgorithms/Routing_XY.cpp 
+ls
+vim GlobalStats.cpp 
+exit
+ls
+cd ..
+ls
+cd bin/
+ls
+vim default_config.yaml 
+ls
+vim vndconfig.yaml 
+./makevnd.sh 
+exit
+shutdown now
+ls
+vim linkgithub.txt
+ls
+exit
+ls
+ls -a
+ls
+ls -a
+cd .vim/
+ls
+vim REAME.md 
+ls
+vim ~/.vimrc 
+ls
+cd script/
+ls
+vim ccpp.vim 
+ls
+cd ..
+ls
+cd syntax/
+ls
+vim conque_term.vim 
+ls
+cd ..
+ls
+cd ..
+ls
+vim sources.list 
+ls
+rm linkh3.sh 
+ls
+rm linkh3.sh 
+ls
+ls -la
+vim .dmrc 
+ls
+ls -la
+ls
+vim ~/noxim/src/GlobalStats.h 
+ls
+vim .vimrc 
+ls
+exit
+chmod +x bash_test.sh 
+./bash_test.sh 
+ls
+./bash_test.sh 
+ls -a
+cd
+ls
+ls -la
+vim .vimrc 
+ls .vim/
+cd .vim/header/
+ls
+vim _.
+vim _.c
+vim _.markdown 
+vim _.matlab 
+vim _.md 
+vim _.perl 
+vim _.python 
+vim _REP.txt 
+vim _.sh 
+vim _.systemverilog 
+vim _.tex 
+vim _.vhd
+vim _.vhd.backup 
+ls
+ls -la
+cd
+history 
+exit
+history 
+exit
+vim bash_test.sh
+rm bash_test.sh 
+ls
+exit
+sudo apt-get update 
+sudo apt-get upgrade 
+python
+exit
+ls
+cd noxim/bin/
+ls
+vim ~/noxim/src/TokenRing.cpp 
+vim ~/noxim/src/Buffer.cpp 
+LS
+ls
+..
+cd ..
+cd src/
+ls
+vim Main.cpp 
+cd ..
+cd bin/ 
+./noxim -config 256_16h.yaml 
+vim ~/noxim/src/Main.cpp 
+./noxim -config 256_16h.yaml 
+echo $USER 
+echo $RANDOM 
+echo $GTK_MODULES 
+echo $GROUPS 
+echo $SECONDS 
+echo $SHELL
+echo $XAUTHORITY 
+vim ~/.Xauthority 
+echo $HOSTNAME 
+echo $MACHTYPE 
+echo $MAILCHECK 
+echo $PATH 
+ls /usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin
+ls /usr/local/sbin/
+ls -la /usr/local/sbin/
+history 
+man
+man echo
+help
+man for
+help for
+help 
+for (1..5); do ./noxim -config default_config.yaml ; done
+for (); do ./noxim -config default_config.yaml ; done
+for vnd; do ./noxim -config default_config.yaml ; done
+vnd
+./vnd
+l
+ls
+help
+for (int i =5); do ./noxim -config default_config.yaml ; done
+for (i = {1..5}); do ./noxim -config default_config.yaml ; done
+for (int i <5); do ./noxim -config default_config.yaml ; done
+exit
+vim ~/noxim/src/GlobalParams.cpp 
+exit
+./noxim -config default_config.yaml 
+ls ../../../../sys/kernel/
+./noxim -config default_config.yaml 
+vim default_config.yaml 
+./noxim -config ~/noxim/config_examples/256_12h.yaml
+./noxim -config ~/noxim/config_examples/default_config.yaml 
+./noxim -config ~/noxim/config_examples/256_12h.yaml
+make
+rm noxim 
+make
+./noxim -config default_config.yaml 
+rm noxim 
+make
+./noxim -config default_config.yaml 
+rm noxim 
+make
+./noxim -config default_config.yaml 
+make
+rm -f noxim 
+make
+./noxim -config default_config.yaml 
+rm -f noxim 
+make
+./noxim -config default_config.yaml 
+vim ~/noxim/src/Main.cpp
+exit
+ssh @namdv10.10.128.33
+ssh namdv@10.10.128.33
+ls
+cd noxim/bin/
+make
+rm noxim 
+make
+./noxim -config default_config.yaml 
+man do
+man for
+man do..
+man help
+help for
+for 1..3; do ./noxim -config default_config.yaml; done
+for {1..3}; do ./noxim -config default_config.yaml; done
+for vnd; do ./noxim -config default_config.yaml ; done
+vnd
+ls -a
+ls
+./noxim 
+./noxim -dimx 6 -dimy 6 -dimz 4 -buffer 8 -size 2 8 -sim 50000 -warmup 20000
+% /noxim -dimx 6 -dimy 6 -dimz 4 -buffer 8 -size 2 8 -sim 50000 -warmup 20000
+./noxim -help
+ls
+vim default_config.yaml 
+./noxim -dimx 8 -dimy 8
+./noxim -dimx 8 -dimy 8 -buffer 8
+./noxim -dimx 8 -dimy 8 -buffer 8 -size 2 8
+./noxim -dimx 8 -dimy 8 -buffer 8 -size 2 8 -sim 50000
+./noxim -dimx 8 -dimy 8 -buffer 8 -size 2 8 -sim 50000 -warmup 20000
+./noxim -config ~/noxim/config_examples/256_12h.yaml 
+./noxim -config default_config.yaml 
+./noxim -config ~/noxim/config_examples/256_12h.yaml 
+./noxim -config default_config.yaml 
+vim ~/noxim/config_examples/256_12h.yaml 
+./noxim -config ~/noxim/config_examples/256_12h.yaml 
+vim ~/noxim/config_examples/256_12h.yaml 
+./noxim -config ~/noxim/config_examples/256_12h.yaml 
+vim ~/noxim/config_examples/256_12h.yaml 
+exit
+shutdown now
+sudo apt-get install  gedit-plugins 
+exit
+cd ~/.vim/bundle/Vundle.vim/
+ls
+cd autoload/
+ls
+exit
+vim .vimrc 
+vim ~/.vimrc 
+exit
+shutdown now
+cd ~/.vim/
+ls
+cd plugin/
+ls
+vim ~/.vimrc 
+exit
+vim noximVND.sh
+ls
+history 
+git clone https://github.com/bpassos/git-commands
+cd git-commands/
+ls
+vim README.md 
+ls 
+ls -a
+cd translation/
+ls
+vim README.pt-br.md 
+exit
+word
+playonlinux
+excel
+powerpoint 
+ping 10.10.128.33
+exit
+exitdate
+exitdateDATE
+ls -la
+ls -a
+vim .sudo_as_admin_successful 
+vim abc.cpp
+ls -a
+vim .ssh/
+cd .ssh/
+ls
+vim known_hosts 
+cd
+ls 
+cd Cprogramming-dicussion/
+ls
+vim README.md 
+git add README.md 
+gnome-open githubskill1.png 
+git commit -m "test up!"
+git push origin master 
+exit
+git config --global color.ui true
+git init 
+cd /home/vnd2586/.git/
+ls
+ls -la
+cd info/
+ls
+vim exclude 
+exit
+cd 
+ls
+ls -a
+cd Downloads/Linux-master/
+git pull
+ls -la
+cd
+git clone http://github.com/yoloh3/Linux
+cd Downloads/
+ls
+cd
+ls
+cd Linux/
+ls
+cd
+cd Linux/
+ls
+chmod u+x install_vim.sh 
+./install_vim.sh 
+vim abc.cpp
+vim install_vim.sh 
+ls ~
+ls -la ~
+c
+vim install_vim.sh 
+./install_vim.sh 
+vim ~/.vimrc 
+c
+./install_vim.sh 
+vim install_vim.sh 
+c
+./install_vim.sh 
+vim ~/.vimrc
+./install_vim.sh 
+vim install_vim.sh 
+c
+./install_vim.sh 
+vim ~/.vimrc
+c
+git add install_vim.sh 
+vim install_vim.sh 
+c
+git add install_vim.sh 
+git commit -m "Fix bug install_vim."L
+git commit -m "Fix bug install_vim."
+git config --global user.email "vndprogramminges@gmail.com"
+git config --global user.name "van-nam dinh"
+git commit -m "Fix bug install_vim."
+git push origin master 
+c
+cd
+rm -rf Linux/
+ls
+vim abc.abc
+ls
+vim ~/.vimrc.backup 
+c
+cd
+c
+git clone http://github.com/yoloh3/Linux
+cd Linux/
+ls
+chmod u+x install_vim.sh 
+./install_vim.sh 
+vim ~/.vimrc
+cd
+ls
+history 
+git clone https://github.com/van-namdinh/Cprogramming-dicussion
+ls Cprogramming-dicussion/
+ls
+cd Cprogramming-dicussion/
+ls
+ls -a
+history 
+cd ~/Pictures/
+git commit githubskill1.png ~/Cprogramming-dicussion/
+cp githubskill1.png ~/Cprogramming-dicussion/
+cd ~/Cprogramming-dicussion/
+ls
+history 
+git add githubskill1.png
+git commit -m "add by vnd for test.
+git push origin master 
+xdg-open githubskill1.png 
+history 
+exit
+./noxim -config vndconfig.yaml 
+make
+rm -rf noxim 
+./noxim -config vndconfig.yaml 
+make
+./noxim -config vndconfig.yaml 
+./noxim -config default_config.yaml 
+./noxim -config vndconfig.yaml 
+exit
+cd noxim/bin/
+ls
+vim vndconfig.yaml 
+exit
+cd noxim/
+cd src/
+ls
+vim ConfigurationManager.cpp 
+exit
+git clone https://github.com/davidepatti/noxim
+ls
+cd noxim/
+ls
+cd bin/
+ls
+make
+ls
+cd ..
+ls
+cd other/
+ls
+cd ..
+ls
+cd ..
+ls
+cd ..
+ls
+ls -a
+ls
+cd NoC\ simulator\ REVIEW/
+ls
+cp ~/Downloads/NoC\ simulator\ REVIEW/ref/palesi2010.pdf .
+ls
+cp palesi2010.pdf ./noxim/doc/
+gnome-open ./noxim/doc/palesi2010.pdf 
+scanimage -L
+vim /etc/sane.d/net.conf 
+sudo vim /etc/sane.d/net.conf 
+scanimage -L
+man scanimage 
+man help
+help
+man vim
+exit
+sudo apt-get install florence 
+florence 
+gnome-open /home/vnd2586/
+exit
+ls
+prename 
+man prename 
+man animate
+man vim
+exit
+shutdown now
+sudo apt-get install atom
+sudo apt-get install Atom
+sudo apt-get update 
+sudo apt-get upgrade 
+sudo apt autoremove 
+sudo apt-get upgrade 
+sudo apt-get update 
+sudo apt-get upgrade 
+sudo add-apt-repository ppa:webupd8team/atom
+sudo apt-get install atom
+sudo apt-get update
+sudo apt-get install atom
+atom 
+exit
+vim hellowold.cpp
+ls
+vim Linux/vim/header/_.cpp 
+vim hellowold.cpp
+vim ~/.vim/header/_.cpp 
+vim hellowold.cpp
+vim ~/.vim/header/_.
+vim ~/.vim/header/_.c
+vim ~/.vim/header/_.make 
+vim ~/.vim/header/_.markdown 
+vim ~/.vim/header/_.matlab 
+vim ~/.vim/header/_.md 
+vim ~/.vim/header/_.perl 
+vim ~/.vim/header/_.python 
+vim ~/.vim/header/_.sh
+vim ~/.vim/header/_.systemverilog 
+vim ~/.vim/header/_.tex 
+vim ~/.vim/header/_.vhd
+vim ~/.vim/header/_.vhdDATE
+vim ~/.vim/header/_.vhd.backup 
+ls
+exit
+gnome-open ~/Pictures/githubskill1.png 
+exit
+git clone https://github.com/van-namdinh/tem_for_vnd/
+cd -R ~/.vim/header/ ~/tem_for_vnd/
+cp -R ~/.vim/header/ ~/tem_for_vnd/
+cd tem_for_vnd/
+ls
+cd header/
+ls
+git add _.*
+git push origin master 
+exit
+cd tem_for_vnd/
+ls
+cd header/
+cd ..
+cp ./header/_.* .
+ls
+git add _.*
+git push origin master 
+ls
+git add _.
+git -m "update1"
+gnome-open ~/Pictures/githubskill1.png 
+git commit -m "file 1"
+git push origin master
+git add ~/Linux/vim/ 
+cp -R ~/Linux/vim/ .
+git add ./vim/
+git commit -m "test up file"
+git push origin master 
+cp -R ~/Linux/ ~/tem_for_vnd/
+git add ./Linux/
+git commit -m "all linux file from h3"
+git push origin master 
+exit
+cd ~/.vim
+ls
+man cp
+cp ~/.vim/header/ ~/Linux/vim/
+cp -p ~/.vim/header/ ~/Linux/vim/
+cp -R ~/.vim/header/ ~/Linux/vim/
+vim ~/Linux/vim/header/_.python 
+ls
+vim ~/Linux/vim/header/_.sh 
+exit
+vim ~/Downloads/VNDES\ 2017/Useful_links_for_both_linux_and_windows_VNDes-newsss.txt 
+cp ~/Downloads/VNDES\ 2017/Useful_links_for_both_linux_and_windows_VNDes-newsss.txt ~/tem_for_vnd/
+cd tem_for_vnd/
+git add Useful_links_for_both_linux_and_windows_VNDes-newsss.txt 
+git commit -m "useful links and ref for vnd"
+git push origin master 
+git status 
+git stash 
+git stage 
+git help 
+git diff
+ls
+git diff
+git help 
+git help -g
+git help -a
+git add ~/Pictures/git-keys-dev.png .
+cp add ~/Pictures/git-keys-dev.png .
+cp ~/Pictures/git-keys-dev.png .
+git add ~/Pictures/git-keys-dev.png
+git add git-keys-dev.png 
+git commit -m "keys for study git skills"
+git push origin master 
+git help 
+git help <commit>
+git help commit
+git help 
+git help -a
+git help checkout
+git help add
+history 
+exit
+git clone https://github.com/gem5/gem5
+exit
+ls
+ls -la
+ls -a
+man ls
+s
+ls
+atom
+cd .vim
+ls
+cd
+ls
+cd gem5/
+ls
+atom 
+exit
+shutdown now
